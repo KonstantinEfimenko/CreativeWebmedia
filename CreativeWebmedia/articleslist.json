@@ -1,0 +1,75 @@
+{
+"articles":[
+            {
+            "title":"How to Write a Request for Proposal to Your Potential Partner",
+            "text":"Five simple rules you should follow in your first RFP letter to your app development partner that will help you and your app achieve your goals.",
+                "author":"Ian Chernov",
+            "picture":"https://yalantis-com.s3.amazonaws.com/uploads/article/image/32/thumb_Wallpaper-suits-32625726-1280-720.jpg",
+            "source":"https://yalantis.com/blog/writing-effective-rfps/",
+            "extra":"duduh!!!"
+            },
+            {
+            "title":"5 Design Tricks to Succeed in 2016 for Mobile App Product Owners",
+            "text":"There are five important things in mobile app design that you need to pay most attention to if you want to win the competition in 2016",
+            "author":"Ian Chernov",
+            "picture":"https://yalantis-com.s3.amazonaws.com/uploads/article/image/24/thumb_RealPixels.jpg",
+            "source":"https://yalantis.com/blog/excellent-mobile-app-design/"
+            },
+            {
+            "title":"7 Types of Animations for Your Mobile App",
+            "text":"This article describes seven types of animations and nine design principles that can make animations truly successful",
+            "author":"Anatoly Nesterov",
+            "picture":"https://yalantis-com.s3.amazonaws.com/uploads/article/image/31/thumb_Cover1000x400.jpeg",
+            "source":"https://yalantis.com/blog/-seven-types-of-animations-for-mobile-apps/"
+            },
+            {
+            "title":"Why Yalantis Is a Company You Can Trust",
+            "text":"All the important reasons why you can trust Yalantis to build an app for you. Check out how we protect your Intellectual Property rights.",
+            "author":"Rustam Tagiev",
+            "picture":"https://yalantis-com.s3.amazonaws.com/uploads/article/image/30/thumb_How-to-Steal-Traffic-From-Your-Competitors-with-SEO-tool-XOVI.jpg",
+            "source":"https://yalantis.com/blog/why-yalantis-is-a-company-you-can-trust/"
+            },
+            {
+            "title":"5 Things You Should Know About Millennials to Make an App for Youth",
+            "text":"To build an app for youth, you need to be them, or at least know what millennials need. We've done the heavy lifting for you. Check out 5 things you can use to appeal to young generation",
+            "author":"Emilia Hansen",
+            "picture":"https://yalantis-com.s3.amazonaws.com/uploads/article/image/27/thumb_millennials3.jpg",
+            "source":"https://yalantis.com/blog/5-things-know-about-millennials-to-make-app-for-youth/"
+            },
+            {
+            "title":"How Much Does It Cost to Design an App?",
+            "text":"First, we will discuss what factors influence the cost of app design. Then, we'll talk about how much it can cost to design an app depending on project complexity and the geographic location of app designers.",
+            "author":"Kate Abrosimova",
+            "picture":"https://yalantis-com.s3.amazonaws.com/uploads/article/image/1620/thumb_head_image_UtO2KSK.jpg",
+            "source":"https://yalantis.com/blog/how-much-does-it-cost-to-design-an-app/"
+            },
+            {
+            "title":"How to Market and Promote Your App with Facebook SDK",
+            "text":"Learn how Facebook SDK can help you market and promote your app without spending much money and resources",
+            "author":"Iryna Pototska",
+            "picture":"https://yalantis-com.s3.amazonaws.com/uploads/article/image/29/thumb_MTIyMzAwNjU2MTg5OTkyMjE3.jpg",
+            "source":"https://yalantis.com/blog/how-to-market-and-promote-your-app-with-facebook-sdk/"
+            },
+            {
+            "title":"Top Techniques for Creating Excellent App Store Screenshots",
+            "text":"How do you attract more users and boost your app's downloads simply by taking screenshots and putting them on your app page in the App Store or Google Play?",
+            "author":"Rustam Tagiev",
+            "picture":"https://yalantis-com.s3.amazonaws.com/uploads/article/image/28/thumb_2_1395046154.jpg",
+            "source":""
+            },
+            {
+            "title":"How Code Quality Is Measured: Android Code Review at Yalantis",
+            "text":"Our code analysis includes six code quality checkpoints, a code review checklist, and a document for suggesting improvements.",
+            "author":"Kate Abrosimova",
+            "picture":"https://yalantis-com.s3.amazonaws.com/uploads/article/image/26/thumb_IMG_2772_2x-c419000f3502259d997f8354ee6806c9.jpeg",
+            "source":""
+            },
+            {
+            "title":"How to Write App Descriptions That Sell",
+            "text":"There are three components of an app’s ‘definition’: its Name, its Description in the marketplace, and Screenshots. We've put together a guide on how to be successful on the App Store and Google Play",
+            "author":"Kate Abrosimova",
+            "picture":"https://yalantis-com.s3.amazonaws.com/uploads/article/image/25/thumb_writter.jpg",
+            "source":""
+            }
+    ]
+}
